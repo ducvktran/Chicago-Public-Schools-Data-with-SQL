@@ -1,2 +1,2 @@
 # Chicago-Public-Schools-Data-with-SQL
-In this notebook, I retrieve some data from [Chicago Public Schools - Progress Report Cards (2011-2012)](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t/about_data) with the help of SQL.
+In this notebook, I retrieve some data from [Chicago Public Schools - Progress Report Cards (2011-2012)](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t/about_data) with the help of SQL. To view this notebook in nbviewer, please see [here](https://nbviewer.org/github/ducvktran/Chicago-Public-Schools-Data-with-SQL/blob/main/Chicago_Public_Schools_Data_with_SQL.ipynb).
